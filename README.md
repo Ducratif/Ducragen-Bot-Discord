@@ -2,7 +2,7 @@
 
 Bienvenue dans **DucraGen OpenSource**, un bot Discord open-source développé en **NodeJS** permettant d'utiliser les services de **DucraGen** directement depuis Discord. Ce bot est conçu pour vous offrir une expérience rapide et fluide en interagissant avec les API de DucraGen.
 
-Documentation: https://doc.ducragen.com/api-ducragen/bot-discord
+Documentation: [Documentation de l'open source](https://doc.ducragen.com/api-ducragen/bot-discord/opensource)
 
 ## Fonctionnalités
 
